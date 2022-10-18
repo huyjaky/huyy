@@ -7,5 +7,6 @@ public class test {
         System.out.println(huy.replace(huy.substring(0,4), ""));
         System.out.println(huy);
         Scanner input = new Scanner(System.in);
+        System.out.println("vl chim em");
     }
 }
