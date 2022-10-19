@@ -8,6 +8,6 @@ public class test {
         System.out.println(huy);
         Scanner input = new Scanner(System.in);
         System.out.println("vl chim em");
-        Scanner input = new Scanner(System.in);
+        Scanner input2 = new Scanner(System.in);
     }
 }
